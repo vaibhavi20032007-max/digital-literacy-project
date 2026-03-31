@@ -1,0 +1,5 @@
+Case Study: UPI Payment Fraud
+UPI payment fraud is a common cybercrime in India where fraudsters trick users into sending money through digital payment apps. This type of fraud usually begins with a scammer contacting the victim through a phone call, message, or social media platform.
+In a typical scenario, the fraudster pretends to be a bank official, delivery agent, or buyer. They send a fake payment request or QR code and ask the victim to scan it to “receive” money. However, instead of receiving money, the victim unknowingly approves a payment and loses funds.
+Students and individuals who are not fully aware of digital payment systems are often targeted. The consequences include financial loss, stress, and sometimes leakage of personal banking details.
+This case highlights the importance of understanding how UPI transactions work. Users should always remember that money is never received by scanning a QR code. Awareness and careful verification are key to preventing such frauds
